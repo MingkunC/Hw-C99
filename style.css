@@ -1,0 +1,9 @@
+#camera 
+{
+    border:1px solid rgb(87, 2, 2);
+}
+
+img
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
